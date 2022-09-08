@@ -1,7 +1,7 @@
 
 # Hi Everyone, I’m Max ✌️
 
-I am a Electrical Controls Engineer turned Full-Stack Developer.  
+I am an Electrical Controls Engineer turned Full-Stack Developer.  
 - 🌱 I'm currently learning React Native 
 - 🥅 2022 Goals: Create my first mobile app using React Native
 
