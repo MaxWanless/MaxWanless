@@ -2,7 +2,7 @@
 # Hi Everyone, I’m Max ✌️
 
 I am an Electrical Controls Engineer turned Full-Stack Developer.  
-- 🌱 I'm currently completing the BrainStation Web-Dev Bootcamp 
+- 🌱 I'm currently completing BrainStation's Web-Development Bootcamp 
 - 🥅 2022 Goals: Create my first mobile app using React Native
 
 
