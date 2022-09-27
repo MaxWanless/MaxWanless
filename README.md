@@ -2,11 +2,11 @@
 # Hi Everyone, I’m Max ✌️
 
 I am an Electrical Controls Engineer turned Full-Stack Developer.  
-- 🌱 I'm currently learning React Native 
+- 🌱 I'm currently completing the BrainStation Web-Dev Bootcamp 
 - 🥅 2022 Goals: Create my first mobile app using React Native
 
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -23,11 +23,9 @@ I am an Electrical Controls Engineer turned Full-Stack Developer.
 <br />
 <br />
 
-## Connect with me ##
+## 📬 Connect with me ##
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 <br />
 
 
 [linkedin]: https://www.linkedin.com/in/maxwanless/
-[email]: mailto:maxwanless@gmail.com
