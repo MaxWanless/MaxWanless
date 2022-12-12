@@ -4,6 +4,7 @@
 I am an Electrical Controls Engineer turned Full-Stack Developer.  
 - 🎓 I recently completed BrainStation's Web-Development Bootcamp 
 - 🌱 I'm currently learning MongoDB and TypeScript
+- 🔭 Looking for an opportunity to add value and grow my development skillset
 - 🥅 2022 Goals: Create my first mobile app using React Native
 
 ## 💻 Languages and Tools:
