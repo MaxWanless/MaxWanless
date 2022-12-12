@@ -1,7 +1,5 @@
 
-# Hi Everyone, I’m Max ✌️<img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b761142e8de8b44d46b5542f4f43215bb9cb44ec08e13&rid=giphy.gif&ct=g" width="48" height="48" alt="Peace Emoji" />
-
-<!-- <iframe src="https://giphy.com/embed/iigp4VDyf5dCLRlGkm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iigp4VDyf5dCLRlGkm">via GIPHY</a></p> -->
+# Hi Everyone, I’m Max <img src="https://media1.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif?cid=790b761142e8de8b44d46b5542f4f43215bb9cb44ec08e13&rid=giphy.gif&ct=g" width="48" height="48" alt="Peace Emoji" />
 
 I am an Electrical Controls Engineer turned Full-Stack Developer.  
 - 🎓 I recently completed BrainStation's Web-Development Bootcamp 
