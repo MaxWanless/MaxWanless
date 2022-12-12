@@ -16,6 +16,7 @@ I am an Electrical Controls Engineer turned Full-Stack Developer.
 
 ## 👷‍♂️ Projects:
 - 🛠️ Coming Soon! 
+![](https://komarev.com/ghpvc/?username=MaxWanless&color=green)
 
 ## 📬 Connect with me ##
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
